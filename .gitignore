@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+
+data/inventory.db
+data/processed_invoice_data.csv
+
+.ipynb_checkpoints/
+.env
