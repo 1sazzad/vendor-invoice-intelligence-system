@@ -323,5 +323,4 @@ And improves:
 MD Sazzad Hossain
 
 - CSE Student, Institute of Science and Technology (IST)
-- President, Programming Club of IST (pcIST)
 - Aspiring Data Engineer / ML Engineer
